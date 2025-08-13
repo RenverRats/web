@@ -820,8 +820,6 @@ a {
     text-align: center;
   }
 }
-<<<<<<< Updated upstream
-=======
 .cid-uTLGgoDluD {
   z-index: 1000;
   width: 100%;
@@ -1454,31 +1452,6 @@ a {
 .cid-uTLrRnEIOK H6 {
   text-align: center;
 }
-.cid-uTLv2TrLsJ {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #ffffff;
-}
-.cid-uTLv2TrLsJ .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uTLv2TrLsJ .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uTLv2TrLsJ .video-wrapper iframe {
-  width: 100%;
-}
-.cid-uTLv2TrLsJ .mbr-section-title,
-.cid-uTLv2TrLsJ .mbr-section-subtitle,
-.cid-uTLv2TrLsJ .mbr-text {
-  text-align: center;
-}
 .cid-uTLGgoDluD {
   z-index: 1000;
   width: 100%;
@@ -1848,4 +1821,3 @@ a {
     left: -1rem;
   }
 }
->>>>>>> Stashed changes
